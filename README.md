@@ -2,6 +2,8 @@
 
 I am a Ph.D. student in computer science at [UFBA](http://pgcomp.dcc.ufba.br/){:target="_blank"} in Brazil.
  
+<a href="http://pgcomp.dcc.ufba.br/" target="_blank">UFBA</a>
+
 <!--
 **Renato2012/Renato2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
