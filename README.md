@@ -5,7 +5,7 @@ Assistant Professor of Computer Science at [UECE](https://www.uece.br/) | Ph.D. 
 <p align="center">
   <img height="100px" src="https://www.uece.br/wp-content/uploads/2023/11/LogoUeceVerticalAltaResolu%C3%A7%C3%A3o-e1700675467882.png" alt="Logo UECE" />
   &nbsp;&nbsp;
-  <img height="92px" src="https://github.com/user-attachments/assets/2df7731e-db79-4574-b36c-ef1ae327ca67" alt="Brasão UFBA" />
+  <img height="94px" src="https://github.com/user-attachments/assets/b7842ac5-c4ca-4f02-8595-570fae756293" alt="Brasão UFBA" />
 </p>
 
 <!-- <p align="center"> 
